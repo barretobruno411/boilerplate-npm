@@ -2,7 +2,13 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Bruno Duarte",
   "description": "this is a project for freeCodeCamp certification!",
-  "keywords":["freecodecamp", "certification", "api","node"],
+  "keywords": [
+    "freecodecamp",
+    "certification",
+    "api",
+    "node"
+  ],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
